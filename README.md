@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Sourav, a passionate Full Stack developer. <br>I specialize in FullStack Development.<br>Currently working as a FullStack Developer Associate Intern in Elcom Digital
+Hey, I'm Sourav, a passionate Software Developer. <br>I specialize in Frontend and FullStack Development.<br>Currently working as a Software Developer Associate at Elcom Digital
 
 
 ## 🌐 Socials:
